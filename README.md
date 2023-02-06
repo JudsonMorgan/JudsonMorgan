@@ -6,7 +6,7 @@ I am EZEH JUDE GABRIEL and this my GitHub profile. I do my best to share my lear
 - :briefcase: Currently working with https://www.heroshe.com
 - :earth_africa: Based in Lagos, Nigeria.
 - :seedling: I am currently learning on ETL and ELT pipeline.
-- :man_technologist: More about Me. https://www.linkedin.com/in/ezeh-jude
+- :man_technologist: More about Me. [LinkedIn](https://www.linkedin.com/in/ezeh-jude)
 - 📫 To reach me, send email to: judeezeh2012@gmail.com
 - ⚡ Fun fact: I don't know how to swim :wink:
 
