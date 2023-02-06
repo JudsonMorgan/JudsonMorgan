@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**JudsonMorgan/JudsonMorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am JUDE and welocome to my GitHub profile. Here, I share my learning, and projects with well-documented repos. I hope you find something that interests you around here! 
 
 Here are some ideas to get you started:
 
