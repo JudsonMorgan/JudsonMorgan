@@ -1,14 +1,18 @@
 ### Hi there 👋
-I am JUDE and welocome to my GitHub profile. Here, I share my learning, and projects with well-documented repos. I hope you find something that interests you around here! 
 
-Here are some ideas to get you started:
+I am EZEH JUDE GABRIEL and this my GitHub profile. I do my best to share my learning paths, ideas, and projects with a well-documented repos. I hope you find something useful around here. :grinning:
+ 
+- :computer: Data Analyst, former Data Scientist.
+- :briefcase: Currently working with https://www.heroshe.com
+- :earth_africa: Based in Lagos, Nigeria.
+- :seedling: I am currently learning on ETL and ELT pipeline.
+- :man_technologist: More about Me. https://www.linkedin.com/in/ezeh-jude
+- 📫 To reach me, send email to: judeezeh2012@gmail.com
+- ⚡ Fun fact: I don't know how to swim :wink:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repository naming conventions:
+
+challenge: prefix to identify non-confidential coding challenges I did
+DS: Data Science
+DA: Data Analysis
+project: OCR handwriting recognition project.
