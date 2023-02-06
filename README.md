@@ -12,8 +12,6 @@ I am JUDE popularly known as Judson and this my GitHub profile. I do my best to 
 
 Repository naming conventions:
 
-`challenge:` prefix to identify non-confidential coding challenges I did
-
 `DS`: Data Science
 
 `DA`: Data Analysis
