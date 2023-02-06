@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am EZEH JUDE GABRIEL and this my GitHub profile. I do my best to share my learning paths, ideas, and projects with a well-documented repos. I hope you find something useful around here. :grinning:
+I am JUDE popularly known as Judson and this my GitHub profile. I do my best to share my learning paths, ideas, and projects with a well-documented repos. I hope you find something useful around here. :grinning:
  
 - :computer: Data Analyst, former Data Scientist.
 - :briefcase: Currently working with [Heroshe](https://www.heroshe.com)
