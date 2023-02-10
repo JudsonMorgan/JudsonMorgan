@@ -10,10 +10,3 @@ I am JUDE popularly known as Judson and this my GitHub profile. I do my best to 
 - 📫 To reach me, send email to: judeezeh2012@gmail.com
 - ⚡ Fun fact: I don't know how to swim :wink:
 
-Repository naming conventions:
-
-`DS`: Data Science
-
-`DA`: Data Analysis
-
-`project:` OCR handwriting recognition project.
